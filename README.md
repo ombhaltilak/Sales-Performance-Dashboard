@@ -50,6 +50,7 @@ Key performance indicators (KPIs), trend lines, filters, and forecast components
 ---
 
 ## 📂 File Structure
+```plaintext
 Sales Performance Dashboard/
 ├── Sales_Dashboard.pbix # Power BI Dashboard file
 ├── Superstore_Sales.csv # Dataset used
